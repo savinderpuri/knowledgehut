@@ -27,6 +27,12 @@ Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://c
 - Clone this repository
 
   ```
+  $ git clone https://github.com/savinderpuri/knowledgehut/tree/main/jpetstore6.git
+  ```
+
+- Clone the original open source repository
+
+  ```
   $ git clone https://github.com/mybatis/jpetstore-6.git
   ```
 
