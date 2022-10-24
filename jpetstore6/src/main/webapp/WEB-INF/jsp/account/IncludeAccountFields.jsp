@@ -63,7 +63,7 @@
 <h3>Profile Information</h3>
 
 <table>
-	<tr>
+	<tr>	
 		<td>Language Preference:</td>
 		<td><stripes:select name="account.languagePreference">
 			<stripes:options-collection collection="${actionBean.languages}" />
